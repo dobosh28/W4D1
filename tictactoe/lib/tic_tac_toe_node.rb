@@ -82,5 +82,4 @@ class TicTacToeNode
 
     children
   end
-
 end
